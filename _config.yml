@@ -1,16 +1,3 @@
-collections:
-  - index:
-      path: /
-      number: 15
-      paginate: true
-      navigable: true
-    permalink:
-      path: '/:title/'
-    feed:
-      path: /rss.xml
-      format: rss
-      number: 10
-typography_spectrum: 0.1917562
 color:
   saturation: 0.9024457
   brandStrength: 0.7363613
@@ -22,5 +9,18 @@ color:
     - '#547AB1'
     - '#CEAFC0'
   lightness: 0.5023894
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+    permalink:
+      path: '/:title/'
 layout_spectrum: 0.8870967
+typography_spectrum: 0.1917562
 name: 'Maximiliano Paradiso '
