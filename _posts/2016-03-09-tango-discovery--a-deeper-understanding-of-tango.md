@@ -5,9 +5,9 @@ inNav: false
 inLanguage: null
 starred: false
 keywords: []
-description: "Tango Discovery . A deeper understanding of Tango\_"
-datePublished: '2016-03-09T09:24:25.938Z'
-dateModified: '2016-03-09T09:23:31.999Z'
+description: "A deeper understanding of Tango\_"
+datePublished: '2016-03-09T09:54:07.193Z'
+dateModified: '2016-03-09T09:53:53.286Z'
 title: 'Tango Discovery '
 author: []
 sourcePath: _posts/2016-03-09-tango-discovery--a-deeper-understanding-of-tango.md
@@ -22,5 +22,7 @@ url: tango-discovery--a-deeper-understanding-of-tango/index.html
 _type: Article
 
 ---
-**Tango Discovery . A deeper understanding of Tango **
+**[A deeper understanding of Tango ][0]**
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/249f2d4588273785e90c73129b191e95cb740fd5.jpg)
+
+[0]: www.tangodiscovery.com/osaka
