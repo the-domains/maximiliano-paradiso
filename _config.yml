@@ -1,3 +1,7 @@
+name: 'Maximiliano Paradiso '
+favicon: null
+layout_spectrum: 0.8870967
+typography_spectrum: 0.18929
 collections:
   - index:
       path: /
@@ -10,17 +14,27 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
-typography_spectrum: 0.1917562
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.7891278
-  brandStrength: 0.7363613
-  lightness: 0.4402629
   brandColors:
-    - '#71A7FE'
-    - '#399AE7'
-    - '#3B407C'
-    - '#547AB1'
-    - '#CEAFC0'
+    - '#021a21'
+    - '#f0f9cf'
+    - '#dbbb77'
+    - '#733738'
+    - '#727561'
+  brandStrength: 0.5
+  lightness: 0.4402629
+  saturation: 0.7891278
   rhythmicContrast: 0.7473118
-layout_spectrum: 0.8870967
-name: 'Maximiliano Paradiso '
+purpose: []
