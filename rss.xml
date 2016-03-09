@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Maximiliano Paradiso ]]></title>
         <description><![CDATA[Maximiliano Paradiso ]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/maximiliano-paradiso/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 09 Mar 2016 09:00:17 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 09 Mar 2016 09:24:26 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/maximiliano-paradiso/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/61be52c1-459e-441a-bdc3-825208e90761.jpg">]]></description>
-            <link>undefinedtango-discovery--a-deeper-understanding-of-tango/index.html</link>
+            <title><![CDATA[Tango Discovery ]]></title>
+            <description><![CDATA[<article><h1>Tango Discovery </h1><p>Tango Discovery . A deeper understanding of Tango </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/249f2d4588273785e90c73129b191e95cb740fd5.jpg"></article>]]></description>
+            <link>https://thegrid.ai/maximiliano-paradiso/tango-discovery--a-deeper-understanding-of-tango/index.html</link>
             <guid isPermaLink="false">85c7dfb7-e9ea-4bf1-bfd4-371d05230403</guid>
-            <pubDate>Wed, 09 Mar 2016 09:00:16 GMT</pubDate>
+            <pubDate>Wed, 09 Mar 2016 09:24:25 GMT</pubDate>
         </item>
     </channel>
 </rss>
