@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: "A deeper understanding of Tango\_"
-datePublished: '2016-03-09T09:54:07.193Z'
-dateModified: '2016-03-09T09:53:53.286Z'
+datePublished: '2016-04-17T01:10:03.412Z'
+dateModified: '2016-03-23T07:28:56.086Z'
 title: 'Tango Discovery '
 author: []
 sourcePath: _posts/2016-03-09-tango-discovery--a-deeper-understanding-of-tango.md
