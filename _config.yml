@@ -1,40 +1,40 @@
-name: 'Maximiliano Paradiso '
-favicon: null
-layout_spectrum: 0.8870967
-typography_spectrum: 0.18929
+purpose: []
 collections:
   - index:
       path: /
       number: 15
       paginate: true
       navigable: true
+    permalink:
+      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
-    permalink:
-      path: '/:title/'
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
+  saturation: 0.7891278
+  brandStrength: 0.5
+  rhythmicContrast: 0.7473118
   brandColors:
     - '#021a21'
     - '#f0f9cf'
     - '#dbbb77'
     - '#733738'
     - '#727561'
-  brandStrength: 0.5
   lightness: 0.4402629
-  saturation: 0.7891278
-  rhythmicContrast: 0.7473118
-purpose: []
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+cta:
+  bucket: null
+  version: null
+  domain: null
+favicon: null
+name: 'Maximiliano Paradiso '
+opengraph:
+  image: null
+  type: null
+  appId: null
+typography_spectrum: 0.760454
+layout_spectrum: 0.9683394
